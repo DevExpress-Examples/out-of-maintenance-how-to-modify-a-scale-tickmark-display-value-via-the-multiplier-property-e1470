@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.Designer.cs](./CS/WindowsApplication1/Form1.Designer.cs) (VB: [Form1.Designer.vb](./VB/WindowsApplication1/Form1.Designer.vb))
+<!-- default file list end -->
 # How to modify a scale tickmark display value via the Multiplier property
 
 
